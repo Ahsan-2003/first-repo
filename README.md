@@ -1,4 +1,4 @@
 # First-repo
-This is my First Git iRepo.
+This is my First Git Repo.
 <br>
 Author - Muhammad Ahsan
